@@ -1,0 +1,19 @@
+{
+  "name": "maitbot",
+  "version": "1.0.0",
+  "description": "First Mait Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "agryashi"
+  },
+  "author": "\"Yashi Bindal\"",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.11.0",
+    "restify": "^6.2.3"
+  }
+}
